@@ -27,6 +27,13 @@ A full-stack Job Scheduling application that allows users to create, manage, and
 
 ---
 
+## Deployed Link:- https://stunning-cascaron-678ac5.netlify.app/
+
+## ScreenShots
+<img width="1912" height="958" alt="Screenshot 2026-01-08 144548" src="https://github.com/user-attachments/assets/cd39ee8a-17cb-4ed3-8599-e425e94c522f" />
+
+## Github Link Backend:- https://github.com/farazsfa007/Dotix-task-nxtwave-backend
+
 ## 📂 Project Structure
 
 ```text
@@ -46,3 +53,5 @@ job-scheduler/
     │   ├── App.jsx
     │   └── main.jsx
     └── package.json
+
+
